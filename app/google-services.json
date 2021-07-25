@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030337421198",
+    "project_id": "fir-pushnotificationdemo-ed2b3",
+    "storage_bucket": "fir-pushnotificationdemo-ed2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030337421198:android:aa9ed72fc1d45012b20edf",
+        "android_client_info": {
+          "package_name": "com.mikal.fcmpushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030337421198-pijqapoh9aeprd65jk1ngmk10c7dft43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QUyL1FPLlUYFlX7IJhYJw-44v-ANHHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030337421198-pijqapoh9aeprd65jk1ngmk10c7dft43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
